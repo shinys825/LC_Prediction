@@ -1,5 +1,5 @@
 # LC_project
-Lending Club Default(charged off, late also are included) Bonds Classification Model
+Lending Club Default(charged off, late also are included) Fully Paid Classification Model
 
 - Raw data is gathered from Lending Club Loan Data and [Kaggle](https://www.kaggle.com/wendykan/lending-club-loan-data)
 - This project has been initiated from JAN 18 2017
