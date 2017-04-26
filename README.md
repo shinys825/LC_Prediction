@@ -1,4 +1,4 @@
-# LC_project
+# LC_project(2017.01.18 ~ 03.17, closed)
 Lending Club Default(charged off, late also are included) Fully Paid Classification Model
 
 - Raw data is gathered from Lending Club Loan Data and [Kaggle](https://www.kaggle.com/wendykan/lending-club-loan-data)
